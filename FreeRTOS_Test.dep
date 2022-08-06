@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2648583419</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\FreeRTOS_Test.hex</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\portable\IAR\LPC2000\ISR_Support.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\port.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\heap_2.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dl4t_tln.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\heap_2.o</file>
+      <file>$TOOLKIT_DIR$\config\linker\NXP\LPC2148.icf</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\io_macros.h</file>
+      <file>$TOOLKIT_DIR$\lib\m4t_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\iolpc2148.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\List\portasm.lst</file>
+      <file>$PROJ_DIR$\Debug\List\cstartup.lst</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\queue.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$TOOLKIT_DIR$\lib\rt4t_al.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\list.o</file>
+      <file>$PROJ_DIR$\Debug\List\lpc2xxx_cstartup.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\port.o</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\FreeRTOS.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\portasm.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\lpc2xxx_cstartup.s</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\list.c</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\portable\IAR\LPC2000\port.c</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\portable\IAR\LPC2000\portasm.s79</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\tasks.c</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\queue.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\portable\MemMang\heap_2.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\queue.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\lpc2xxx_cstartup.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\FreeRTOS_Test.pbd</file>
+      <file>$PROJ_DIR$\FreeRTOSConfig.h</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\deprecated_definitions.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup.o</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\stack_macros.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tasks.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\list.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\projdefs.h</file>
+      <file>$TOOLKIT_DIR$\lib\shs_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\Debug\List\c.map</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\timers.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\asm\io_macros.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\task.h</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\portable.h</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\mpu_wrappers.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\queue.o</file>
+      <file>$PROJ_DIR$\cstartup.s</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\include\list.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tasks.o</file>
+      <file>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\portable\IAR\LPC2000\portmacro.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 9 8 22 38 16 24 26 61 64 51 21 12 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lpc2xxx_cstartup.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 38 23</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\list.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 2 15 55 49 0 10 45 13 25 47 27 40 14 11 50 59 41 65 57 60 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 2 15 55 49 0 10 45 13 25 47 27 40 14 11 50 59 41 65 57 60 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\portable\IAR\LPC2000\port.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 2 15 55 49 0 10 45 13 57 25 47 27 40 14 11 50 59 41 65 60 58 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 2 15 55 49 0 10 45 13 57 25 47 27 40 14 11 50 59 41 65 60 58 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\portable\IAR\LPC2000\portasm.s79</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 26 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>AARM</name>
+          <file> 40 14 56 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\tasks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 2 15 55 49 0 10 45 13 46 52 25 47 27 40 14 11 50 59 41 65 57 60 58 63 54 43</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 2 15 55 49 0 10 45 13 46 52 25 47 27 40 14 11 50 59 41 65 57 60 58 63 54 43</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\queue.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 2 15 55 49 0 10 45 13 46 52 25 47 27 40 14 11 50 59 41 65 57 60 58 63 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 2 15 55 49 0 10 45 13 46 52 25 47 27 40 14 11 50 59 41 65 57 60 58 63 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 11 25 47 2 15 55 49 0 10 45 13 27 40 50 59 41 65 57 60 58 63 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 11 25 47 2 15 55 49 0 10 45 13 27 40 50 59 41 65 57 60 58 63 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>E:\Setup\FreeRTOS\FreeRTOSv202112.00\FreeRTOS\Source\portable\MemMang\heap_2.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 2 15 55 49 0 10 45 13 25 47 27 40 14 11 50 59 41 65 57 60 58 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 2 15 55 49 0 10 45 13 25 47 27 40 14 11 50 59 41 65 57 60 58 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 20 53</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cstartup.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 42 18</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
